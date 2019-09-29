@@ -41,6 +41,13 @@ http://webdesign.ru.net/article/pravila-oformleniya-fayla-readmemd-na-github.htm
 <?php here_pagecontent(); ?>
 ```
 
+Исходники с++
+```c++
+int main(int argc, char** argv) {
+    return 0;
+}
+```
+
 Выделенный цветом фона блок с каскадными таблицами. Теги выделяются цветом по правилам css
 
 ```scss /* или css */
