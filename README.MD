@@ -1,4 +1,4 @@
-[logo](https://library.kissclipart.com/20180906/llq/kissclipart-head-barber-logo-clipart-barber-logo-graphic-desig-1dec86552ff621a2.png "Our logo")
+![logo](https://library.kissclipart.com/20180906/llq/kissclipart-head-barber-logo-clipart-barber-logo-graphic-desig-1dec86552ff621a2.png "Our logo")
 
 h1 заголовок первого уровня
 =====================
