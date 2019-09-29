@@ -43,7 +43,12 @@ http://webdesign.ru.net/article/pravila-oformleniya-fayla-readmemd-na-github.htm
 
 Исходники с++
 ```c++
+enum class Color {red, green, blue};
 int main(int argc, char** argv) {
+    Color pixel_color = Color.red;
+    if (pixel_color == Color.red) {
+        std::cout << "Color is not changed." << std::endl;
+    }
     return 0;
 }
 ```
