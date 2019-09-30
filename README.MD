@@ -1,7 +1,3 @@
-<img src="https://library.kissclipart.com/20180906/llq/kissclipart-head-barber-logo-clipart-barber-logo-graphic-desig-1dec86552ff621a2.png" width=200px align="center"/>
-
-![logo](https://library.kissclipart.com/20180906/llq/kissclipart-head-barber-logo-clipart-barber-logo-graphic-desig-1dec86552ff621a2.png)
-
 h1 заголовок первого уровня
 =====================
 
@@ -49,8 +45,8 @@ http://webdesign.ru.net/article/pravila-oformleniya-fayla-readmemd-na-github.htm
 ```c++
 enum class Color {red, green, blue};
 int main(int argc, char** argv) {
-    Color pixel_color = Color.red;
-    if (pixel_color == Color.red) {
+    Color pixel_color = Color::red;
+    if (pixel_color == Color::red) {
         std::cout << "Color is not changed." << std::endl;
     }
     return 0;
